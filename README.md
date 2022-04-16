@@ -1,4 +1,4 @@
-# 2D Matrix Grid
+90 and 0 degrees # 2D Matrix Grid
 
 Grid that shows the count of artifacts where the field matches the displayed values for the selected fields on the X and Y Axis.  
 
